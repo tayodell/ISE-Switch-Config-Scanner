@@ -1,3 +1,9 @@
+# local files for keeping our secrets
+config.py
+
+# PyCharm
+.idea
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
